@@ -1,9 +1,8 @@
 {
   "headers": {
     "/*": {
-      "X-Author": "adeldubinnikova"
+      "X-Author": "adeldubinnikova",
+      "Access-Control-Allow-Origin": "*"
     }
   }
-
-
 }
